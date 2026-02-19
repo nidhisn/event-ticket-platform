@@ -3,7 +3,7 @@ package com.nidhi.tickets.domain;
 import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.data.annotation.CreatedDate;
-import org.springframework.data.annotation.Id;
+
 import org.springframework.data.annotation.LastModifiedDate;
 
 import java.time.LocalDateTime;
